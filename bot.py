@@ -62,7 +62,7 @@ class Bot:
         stake: int = 1,
         seed: str = None,
         challenge: str = None,
-        bot_port: int = 12346,
+        bot_port: int = 12345,
     ):
         self.G = None
         self.deck = deck
